@@ -1,0 +1,10 @@
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\bin\Debug\RandomStoryGenerator.exe.config
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\bin\Debug\RandomStoryGenerator.exe
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\bin\Debug\RandomStoryGenerator.pdb
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\obj\Debug\RandomStoryGenerator.csprojAssemblyReference.cache
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\obj\Debug\RandomStoryGenerator.Form1.resources
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\obj\Debug\RandomStoryGenerator.Properties.Resources.resources
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\obj\Debug\RandomStoryGenerator.csproj.GenerateResource.cache
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\obj\Debug\RandomStoryGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\obj\Debug\RandomStoryGenerator.exe
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\RandomStoryGenerator\RandomStoryGenerator\obj\Debug\RandomStoryGenerator.pdb
